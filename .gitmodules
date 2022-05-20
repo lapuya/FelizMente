@@ -1,0 +1,12 @@
+[submodule "FelizMente_REST"]
+	path = FelizMente_REST
+	url = https://github.com/lapuya/FelizMente-spring-rest-api.git
+[submodule "FelizMente_Admin"]
+	path = FelizMente_Admin
+	url = https://github.com/lapuya/FelizMente-Admin-Side.git
+[submodule "FelizMente_App"]
+	path = FelizMente_App
+	url = https://github.com/amrobinska/FelizMente_App.git
+[submodule "FelizMente_LandingPage"]
+	path = FelizMente_LandingPage
+	url = https://github.com/saramselem/FelizMenteLandingPage.git
